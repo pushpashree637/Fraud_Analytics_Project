@@ -107,4 +107,4 @@ streamlit run app.py
 
 ## 👩‍💻 Developer
 
-Final Year Data Science Project
+second Year Data Science Project
